@@ -1,0 +1,6 @@
+{
+  "name": "Q50 Project - Minna Launch",
+  "description": "The Financial Opportunity Everyone in Minna is Talking About - Be Among The First 50 To Join.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
